@@ -104,64 +104,64 @@
           <RowDefinition Height="20"></RowDefinition>
           <RowDefinition Height="20"></RowDefinition>
         </Grid.RowDefinitions>
-        <Label Text="Name" Grid.Row="0" Grid.Column="0">
+        <Label Text="Field" Grid.Row="0" Grid.Column="0">
           <Label.Font>
             Bold,Large
           </Label.Font>
         </Label>
-        <Label Text="Value" Grid.Row="0" Grid.Column="1">
+        <Label Text="Field" Grid.Row="0" Grid.Column="1">
           <Label.Font>
             Bold,Large
           </Label.Font>
         </Label>
-        <Label Text="Latitude" Grid.Row="1" Grid.Column="0">
+        <Label Text="Field" Grid.Row="1" Grid.Column="0">
           <Label.Font>
             Bold,Medium
           </Label.Font>
         </Label>
-        <Label  Text="--" Grid.Row="1" Grid.Column="1"></Label>
-        <Label Text="Longitude" Grid.Row="2" Grid.Column="0" >
+        <Label  Text="Field" Grid.Row="1" Grid.Column="1"></Label>
+        <Label Text="Field" Grid.Row="2" Grid.Column="0" >
           <Label.Font>
             Bold,Medium
           </Label.Font>
         </Label>
-        <Label  Text="--" Grid.Row="2" Grid.Column="1" ></Label>
-        <Label Text="Altitude" Grid.Row="3" Grid.Column="0" >
+        <Label  Text="Field" Grid.Row="2" Grid.Column="1" ></Label>
+        <Label Text="Field" Grid.Row="3" Grid.Column="0" >
           <Label.Font>
             Bold,Medium
           </Label.Font>
         </Label>
-        <Label  Text="--" Grid.Row="3" Grid.Column="1" ></Label>
-        <Label Text="Name" Grid.Row="4" Grid.Column="0" >
+        <Label  Text="Field" Grid.Row="3" Grid.Column="1" ></Label>
+        <Label Text="Field" Grid.Row="4" Grid.Column="0" >
           <Label.Font>
             Bold,Medium
           </Label.Font>
         </Label>
-        <Label  Text="--" Grid.Row="4" Grid.Column="1" ></Label>
-        <Label Text="ID" Grid.Row="5" Grid.Column="0" >
+        <Label  Text="Field" Grid.Row="4" Grid.Column="1" ></Label>
+        <Label Text="Field" Grid.Row="5" Grid.Column="0" >
           <Label.Font>
             Bold,Medium
           </Label.Font>
         </Label>
-        <Label  Text="--" Grid.Row="5" Grid.Column="1" ></Label>
-        <Label Text="Antenna Height" Grid.Row="6" Grid.Column="0" >
+        <Label  Text="Field" Grid.Row="5" Grid.Column="1" ></Label>
+        <Label Text="Field" Grid.Row="6" Grid.Column="0" >
           <Label.Font>
             Bold,Medium
           </Label.Font>
         </Label>
-        <Label  Text="--" Grid.Row="6" Grid.Column="1" ></Label>
-        <Label Text="Code" Grid.Row="7" Grid.Column="0" >
+        <Label  Text="Field" Grid.Row="6" Grid.Column="1" ></Label>
+        <Label Text="Field" Grid.Row="7" Grid.Column="0" >
           <Label.Font>
             Bold,Medium
           </Label.Font>
         </Label>
-        <Label  Text="--" Grid.Row="7" Grid.Column="1" ></Label>
-        <Label Text="Antenna ID" Grid.Row="8" Grid.Column="0" >
+        <Label  Text="Field" Grid.Row="7" Grid.Column="1" ></Label>
+        <Label Text="Field" Grid.Row="8" Grid.Column="0" >
           <Label.Font>
             Bold,Medium
           </Label.Font>
         </Label>
-        <Label  Text="--" Grid.Row="8" Grid.Column="1" ></Label>
+        <Label  Text="Field" Grid.Row="8" Grid.Column="1" ></Label>
       </Grid>
     </StackLayout>
     <StackLayout HorizontalOptions="FillAndExpand" Orientation="Horizontal">
